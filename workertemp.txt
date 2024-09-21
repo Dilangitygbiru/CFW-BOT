@@ -1,10 +1,10 @@
-name = "nameofworker"
-account_id = "cloudflare_id"
+name = "sg1"
+account_id = "40a03e4485796c313ce350ee0f025391"
 workers_dev = true
-compatibility_date = "2024-02-17"
+compatibility_date = "2025-02-17"
 
 
 [[routes]]
 
-pattern = "subdomain"
+pattern = "prantas5758.my.id"
 custom_domain = true
